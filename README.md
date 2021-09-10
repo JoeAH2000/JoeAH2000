@@ -9,7 +9,7 @@ This repository contains most of my projects that I have worked on throughout my
 
 SpartaSimulation - https://github.com/joshuamc360/SpartaSimulation (Group Repo) - Simulates the sparta business model
 
-SpartaEmployeeProjectJH - https://github.com/JoeAH2000/SpartaEmployeeProjectJH - Cleans a .csv file of duplicaates then pushes it to an SQL database as fast as possible
+SpartaEmployeeProjectJH - https://github.com/JoeAH2000/SpartaEmployeeProjectJH - Cleans a .csv file of duplicates then pushes it to an SQL database as fast as possible
 
 SpartaSortManager - https://github.com/JoeAH2000/SpartaSortManagerJH - Contains a variety of sorting algorithms
 
