@@ -7,7 +7,7 @@ and will soon be working with Mockito, Selenium, Cucumber and more.
 
 This repository contains most of my projects that I have worked on throughout my career, however the following my biggest projects:
 
-SpartaSimulation - https://github.com/JoeAH2000/SpartaSimulation (Fork from group repo) - Simulates the sparta business model
+SpartaSimulation - https://github.com/joshuamc360/SpartaSimulation (Group Repo) - Simulates the sparta business model
 
 SpartaEmployeeProjectJH - https://github.com/JoeAH2000/SpartaEmployeeProjectJH - Cleans a .csv file of duplicaates then pushes it to an SQL database as fast as possible
 
